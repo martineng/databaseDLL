@@ -1,0 +1,11 @@
+C:\Users\MartinC.A\Desktop\temp\databaseDLL\databaseDLL\bin\Debug\databaseDLL.dll
+C:\Users\MartinC.A\Desktop\temp\databaseDLL\databaseDLL\bin\Debug\databaseDLL.pdb
+C:\Users\MartinC.A\Desktop\temp\databaseDLL\databaseDLL\bin\Debug\MySql.Data.dll
+C:\Users\MartinC.A\Desktop\temp\databaseDLL\databaseDLL\obj\Debug\databaseDLL.csprojResolveAssemblyReference.cache
+C:\Users\MartinC.A\Desktop\temp\databaseDLL\databaseDLL\obj\Debug\databaseDLL.dll
+C:\Users\MartinC.A\Desktop\temp\databaseDLL\databaseDLL\obj\Debug\databaseDLL.pdb
+F:\File Cabin\Front Deck\Applying Library\Assessment 3\databaseDLL\databaseDLL\bin\Debug\databaseDLL.dll
+F:\File Cabin\Front Deck\Applying Library\Assessment 3\databaseDLL\databaseDLL\bin\Debug\databaseDLL.pdb
+F:\File Cabin\Front Deck\Applying Library\Assessment 3\databaseDLL\databaseDLL\obj\Debug\databaseDLL.csprojResolveAssemblyReference.cache
+F:\File Cabin\Front Deck\Applying Library\Assessment 3\databaseDLL\databaseDLL\obj\Debug\databaseDLL.dll
+F:\File Cabin\Front Deck\Applying Library\Assessment 3\databaseDLL\databaseDLL\obj\Debug\databaseDLL.pdb
